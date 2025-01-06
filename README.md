@@ -1,13 +1,11 @@
-### 
+###
 
-<a href="mailto:jmfontineles@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/jmfontineles)
 
 
 ![JoãoMFontineles's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomfontineles&show_icons=true&theme=dracula)
 
-##Tecnologias
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMFontineles&layout=compact)
 
 <div style="display= inline_block"><br/>
    <img align="center" alt="Html5" src"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

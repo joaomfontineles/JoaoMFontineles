@@ -4,6 +4,7 @@ Olá! Sou apaixonado por tecnologia!
 
 
 ![JoãoMFontineles's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomfontineles&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMFontineles&layout=compact)
 
 <div style="display= inline_block"><br/>
